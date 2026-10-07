@@ -1,0 +1,4 @@
+- Major: Computer Science
+- Favorite movie: The Conjuring
+- Favorite book: Lord of Mysteries
+- Favorite song: SICKO MODE
